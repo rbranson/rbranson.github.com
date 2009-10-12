@@ -1,0 +1,33 @@
+---
+layout: post
+title: New York City - Guggenheim
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|1071+Fifth+Avenue+10128&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Solomon R. Guggenheim Museum
+1071 Fifth Avenue (at 89th Street)
+New York, NY 10128-0173
+
+* Cost: $18
+* Hours vary, see below.
+* Audio tours are free with admission.
+* The cafe is closed for renovation!
+
+*Hours*
+* Sunday thru Wednesday: 10a thru 5:45p.
+* Friday: 10a thru 5:45p.
+* Saturday: 10a thru 7:45p.
+* Closed Thursday
+* Some galleries may close prior to 5:45 p.m. Sun–Wed and Fri (7:45 p.m. Sat)
+
+*Special Exhibitions*
+* Kadinsky
+* Paired Gold: Felix Gonzalez-Torres and Roni Horn
+* Intervals: Kitty Kraus
+* Gabriele Münter and Vasily Kandinsky, 1902–14: A Life in Photographs
+
+*Events*
+* Friday, October 16th at 1p: Kadinsky: A Close Look

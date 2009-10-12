@@ -1,0 +1,18 @@
+---
+layout: post
+title: New York City - Hotel Information
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|247+49th+St+Brooklyn+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Sleep Inn
+247 49th St
+Brooklyn, NY 11220
+(718) 748-6400
+
+* 1 King Bed, No Smoking
+* Free High Speed Wireless
+* Refrigerator, Hair Dryer, Iron (Board), Coffee Maker
+* Subway: 45th St Station (4th and 45th St)

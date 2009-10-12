@@ -1,0 +1,25 @@
+---
+layout: post
+title: New York City - Museum of Natural History
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|Central+Park+West+At+79th+Street+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Museum of Natural History
+Central Park West at 79th Street
+New York, NY
+
+* Cost: $16
+* There is a $4 surcharge to purchase online! Eww!
+* Hours are every day 10a-5:45p
+
+*Exhibits*
+* (New) The Butterfly Conservatory
+* Extreme Mammals
+* Frogs: A Chorus of Colors
+* Journey to the Stars (Space Show - Extra $)
+* Spider Silk
+* Wild Ocean (IMAX - Extra $)
+* On Feathered Wings: Birds in Flight

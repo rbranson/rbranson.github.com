@@ -1,0 +1,26 @@
+---
+layout: post
+title: New York City - Museum of Modern Art
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|11+W+53rd+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Museum of Modern Art (MoMA)
+11 W 53rd St
+New York, NY
+
+* Cost: $20 (Top of Rock / MoMA Joint Ticket Purchase: $30)
+* Can buy tickets online (website indicates line)
+* Closed on Tuesdays!
+* Admission is free every Friday from 4-8p, so avoid this times!
+
+*Hours*
+* Sunday	10:30 a.m.–5:30 p.m.
+* Monday	10:30 a.m.–5:30 p.m.
+* Tuesday	closed 
+* Wednesday	10:30 a.m.–5:30 p.m.
+* Thursday	10:30 a.m.–5:30 p.m.
+* Friday	10:30 a.m.–8:00 p.m.
+* Saturday	10:30 a.m.–5:30 p.m.

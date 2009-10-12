@@ -1,0 +1,20 @@
+---
+layout: post
+title: New York City - LaGuardia - To and From
+---
+
+*PURCHASE METRO CARDS AT AIRPORT METRO STATION*
+
+* The M60 bus can be used to travel between LaGuardia and the closest subway station, which is Astoria, one stop away from LaGuardia.
+* M60 Sunday Afternoon Bus Schedule at LaGuardia Delta Terminal is roughly every ten minutes starting at 12:53pm.
+* The trip to the hotel is roughly an hour and a half. Be patient.
+
+*Directions from LaGuardia to Brooklyn Hotel*
+
+* *DEPART* M60 West Side Bway - 106 St via 125 St
+* *ARRIVE* at HOYT AV at 31ST ST
+* *WALK* south on 31st St to Astoria Blvd Station
+* *DEPART* Astoria Blvd Station on !http://maps.gstatic.com/intl/en_us/mapfiles/transit/iw/3/us-ny-mta/N.gif! Coney Island / Stillwell Ave Station
+* *ARRIVE* at 36th St Station
+* *DEPART* 36th St Station on !http://maps.gstatic.com/intl/en_us/mapfiles/transit/iw/3/us-ny-mta/R.gif! 95th St / Bay Ridge Station
+* *ARRIVE* 45th St Station
