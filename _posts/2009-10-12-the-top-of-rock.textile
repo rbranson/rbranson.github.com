@@ -1,0 +1,22 @@
+---
+layout: post
+title: New York City - Top of Rock
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|36+W+50th+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Rockefeller Center
+36 W 50th St
+New York, NY
+
+Cost: $30 Per Person
+Hours: 365 Days a Year, 8AM - Midnight (Last Elevator at 11:00pm)
+
+"http://www.topoftherocknyc.com/tickets":http://www.topoftherocknyc.com/tickets
+
+* Restroom Available
+* Advanced Reservations are Suggested
+* 67th and 69th Floors - Outdoor Terraces with Safety Glass
+* 70th Floor - Unobstructed, 360-degree view of City
