@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City - Guggenheim
+title: Upper East Side - Guggenheim
 ---
 
 h1. {{ page.title }}

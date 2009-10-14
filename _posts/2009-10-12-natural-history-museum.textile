@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City - Museum of Natural History
+title: Midtown East - Museum of Natural History
 ---
 
 h1. {{ page.title }}

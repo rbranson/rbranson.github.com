@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City - Hotel Information
+title: Hotel Information
 ---
 
 h1. {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City - Top of Rock
+title: Midtown West - Top of Rock
 ---
 
 h1. {{ page.title }}

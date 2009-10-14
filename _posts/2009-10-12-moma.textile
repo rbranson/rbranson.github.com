@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City - Museum of Modern Art
+title: Midtown East - Museum of Modern Art
 ---
 
 h1. {{ page.title }}

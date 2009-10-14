@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York City - Neighborhood Map
+title: Neighborhood Map
 ---
 
 !http://cityguide.wisdomdigital.com/maps/full/cggatefold.jpg!
