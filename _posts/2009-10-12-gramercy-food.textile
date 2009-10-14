@@ -1,0 +1,42 @@
+---
+layout: post
+title: Gramercy - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|370+3rd+Ave+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Lamazou
+370 3rd Ave
+New York, NY 10016
+
+* Cheese and Sandwiches, Cheap
+* Mon-Sat 10a-8p, Sun 11:30a-6p
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|198+Mott+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Parisi Bakery
+198 Mott St
+New York, NY 10012
+
+* Bakery and Sandwiches, Cheap
+* M-F 7a-5p, Sat 7a-5p, Closed Sunday
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|61+Lexington+Ave+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Latin Thing
+61 Lexington Ave
+New York, NY 10010
+
+* Latin/Carribean Food, Cheap
+* M-F 11a-9p, Sat 11a-7p
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|517+3rd+Ave+Frnt+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Imperial Pizza (Sauce)
+517 3rd Ave Frnt
+New York, NY 10010
+
+* Pizza, Cheap
+* Open "Late"

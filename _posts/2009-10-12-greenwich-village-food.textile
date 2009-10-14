@@ -1,0 +1,70 @@
+---
+layout: post
+title: Greenwich Village - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|136+W+Houston+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Ushiwakamaru
+136 W Houston St
+New York, NY 10012
+
+* Sushi, Expensive ($$$)
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|119+MacDougal+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Mamoun's Falafel
+119 MacDougal St
+New York, NY 10012
+
+* Middle Eastern, Cheap
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|546+Laguardia+Pl+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Marumi Restaurant
+546 Laguardia Place
+New York, NY 10012
+
+* Sushi, Relatively Inexpensive ($$)
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|Broadway+and+W+Houston+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Halal Cart
+Broadway and W Houston
+New York, NY 10079
+
+* Middle Eastern Food Cart, Cheap
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|144+W+Houston+St+Frnt+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Raffetto's Corp
+144 W Houston St Frnt
+New York, NY 10012
+
+* Italian, Relatively Inexpensive ($$)
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|482+Ave+Of+The+Americas+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Joe Jr's Restaurant
+482 Ave Of The Americas
+New York, NY 10011
+
+* Diner, Cheap
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|120+W+3rd+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Bb Sandwich Bar
+120 W 3rd St
+New York, NY 10012
+
+* Sandwiches, Cheap
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|85+Washington+Pl+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+The Stoned Crow
+85 Washington Pl
+New York, NY 10011
+
+* Bar Food, Cheap

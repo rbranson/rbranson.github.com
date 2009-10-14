@@ -1,0 +1,52 @@
+---
+layout: post
+title: Lower East Side - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|87+Orchard+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Guss' Pickles
+87 Orchard St
+New York, NY 10022
+(212) 334-3616
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|8+Rivington+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+The National
+8 Rivington St
+New York, NY 10002
+
+* American Food, Sit Down, Relatively Inexpensive
+* Open Tuesday-Sat 5p-11p
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|46+Eldridge+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Prosperity Dumpling
+46 Eldridge St
+New York, NY 10002
+
+* Chinese Food, Really Cheap, Cash Only
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|135+Ludlow+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Creperie
+135 Ludlow St
+New York, NY 10002
+
+* Crepes, Cheap, Awesome
+* CASH ONLY
+* Mon-Fri.	 11:00 a.m. - 3:00 a.m.
+* Sat.	 11:00 a.m. - 3:00 p.m.
+* Sun.	 10:00 a.m. - 2:00 p.m.
+
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|42+Rivington+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Jadis
+42 Rivington St
+New York, NY 10079
+
+* French Food, Relatively Inexpensive ($$)
+* M-T 5p-12a, F-Sat 5p-2a, Closed Sunday

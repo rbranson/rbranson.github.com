@@ -1,0 +1,16 @@
+---
+layout: post
+title: West Village - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|140+West+4th+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Red Bamboo
+140 W 4th St
+New York, NY
+
+* Vegetarian Food
+* Recommended by Nick
+

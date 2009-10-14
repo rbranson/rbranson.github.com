@@ -1,0 +1,30 @@
+---
+layout: post
+title: SoHo - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|408+Broome+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Despana
+408 Broome St
+New York, NY 10013
+
+* Spanish Food, Relatively Inexpensive ($$)
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|105+Thompson+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Snack
+105 Thompson St
+New York, NY 10012
+
+* Greek Food, Relatively Inexpensive ($$)
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|105+Sullivan+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Alidoro
+105 Sullivan St
+New York, NY 10012
+
+* Awesome Sandwiches, Cheap 

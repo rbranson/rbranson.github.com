@@ -1,0 +1,37 @@
+---
+layout: post
+title: Chelsea - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|279+Water+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Johny's Luncheonette
+124 W. 25th St
+New York, NY 10001
+
+* Breakfast + American Food + Brunch (Greasy Spoon), Cheap
+* 7:30am to 6:00pm Monday - Friday
+* 8:30am to 4:00pm Saturday & Sunday
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|376+8th+Ave+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Salumeria Biellese
+376 8th Ave
+New York, NY 10001
+
+* Northern Italian Food, Cheap
+* Lunch: M-F 12a-3p, Dinner: M-Sat 5p-10p
+* Reservations Suggested
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|286+8th+Ave+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Brooklyn Bagel & Coffee Company
+286 8th Ave
+(between 24th St & 25th St) 
+New York, NY 10001
+
+* Bagels + Sandwiches + Coffee, Cheap
+* Daily, 7a-10p
+

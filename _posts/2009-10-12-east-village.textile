@@ -1,0 +1,59 @@
+---
+layout: post
+title: East Village - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|516+E+6th+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Lula's Sweet Apothecary
+516 E 6th St
+New York, NY 10009
+
+* Non-Dairy Ice Cream, Cheap, MUST DO
+* Closed Monday, Sunday-Tues-Wed 3pm-10pm, Thu-Fri-Sat 3pm-11:30p
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|40+3rd+Ave+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+East Village Cheese
+40 3rd Ave
+New York, NY 10003
+
+* Cheap
+* Cash Only 
+* Mon-Sun 8:30a-6p
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|441+E+12+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Ost Cafe
+441 E 12th St
+New York, NY 10009
+
+* Coffee + Light Food and Pastries, Cheap
+* Mon-Thu.	 7:30 a.m. - 9:00 p.m.
+* Fri.	 7:30 a.m. - 9:30 p.m.
+* Sat.	 8:30 a.m. - 9:30 p.m.
+* Sun.	 8:30 a.m. - 9:00 p.m.
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|116+Ave+C+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Kafana
+116 Ave C
+New York, NY
+
+* Modern European Ethnic Food, Relatively Inexpensive ($$), Sit-Down
+* CASH ONLY
+* Mon-Thu.	 5:00 p.m. - 11:00 p.m.
+* Fri.	 5:00 p.m. - 1:00 a.m.
+* Sat.	 12:00 p.m. - 1:00 a.m.
+* Sun.	 12:00 p.m. - 11:00 p.m.
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|94+Avenue+B+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Sunny and Annie's
+94 Avenue B
+New York, NY 10003
+
+* Sandwiches, Cheap (Lots of Food)
+

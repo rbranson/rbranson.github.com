@@ -1,0 +1,46 @@
+---
+layout: post
+title: Brooklyn (Near Hotel) - Food
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|4508+5th+Ave+Brooklyn+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Tacos Matamoros
+4508 5th Ave
+Brooklyn, NY 11220
+
+* Mexican Food, Cheap
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|5806+5th+Ave+Brooklyn+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Johnny's Pizzeria
+5806 5th Ave
+Brooklyn, NY 11220
+
+* Pizza, Cheap
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|774+49th+St+Brooklyn+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Yun Nan Flavor Snack
+774 49th St
+Brooklyn, NY 11220
+
+* Chinese, Cheap, Hole-in-the-Wall
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|4301+4th+Ave+Brooklyn+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+Sunset Deli
+4301 4th Ave 
+Brooklyn, NY 11232
+
+* Deli, Cheap, Less than Half a Mile from Hotel
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|5701+5th+Ave+Brooklyn+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+George's Restaurant
+5701 5th Ave
+Brooklyn, NY 11220
+
+* Diner, Inexpensive ($$) 

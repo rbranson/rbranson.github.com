@@ -1,0 +1,16 @@
+---
+layout: post
+title: Lower East Side - Bodies Exhibit
+---
+
+h1. {{ page.title }}
+
+!http://maps.google.com/maps/api/staticmap?markers=size:mid|color:red|11+Fulton+St+New+York+NY&size=300x250&sensor=false&key=ABQIAAAA7Jz-rfM6rN9ER5XYX-ZyDBQWiyLqe2CKhw7yQSU6Ok_zQKKTsRQ-rWzbJbbPRPQKUSvItkdSqoBYyA!
+
+BODIES .. The Exhibition
+11 Fulton St
+New York, NY
+
+* Cost: $26.50 Weekday, $27.50 Weekend
+* There is a $3.50 convenience fee to purchase online! Eww!
+* Hours: Sunday-Thursday 10a-7p, Friday and Saturday 10a-9p
